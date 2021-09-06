@@ -1,0 +1,19 @@
+# Site settings
+title: Osprey
+author: Shai Sachs
+email:
+description: An advanced UI and assignment algorithm for robust voter-protection programs.
+baseurl: "/osprey-website/" # the subpath of your site, e.g. /blog/
+url: "https://shaisachs.com"
+
+# User setting
+owner: Shai Sachs
+email:
+telephone:
+copyright: Shai Sachs
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
