@@ -1,16 +1,16 @@
 # Site settings
 title: Osprey
-author: Shai Sachs
+author: VoProVols
 email:
 description: An advanced UI and assignment algorithm for robust voter-protection programs.
-baseurl: "/osprey-website/" # the subpath of your site, e.g. /blog/
-url: "https://shaisachs.com"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://voprovols.github.io/"
 
 # User setting
-owner: Shai Sachs
+owner: VoProVols
 email:
 telephone:
-copyright: Shai Sachs
+copyright: VoProVols
 
 # API settings
 google_api_key:
